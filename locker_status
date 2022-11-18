@@ -1,0 +1,7 @@
+
+from enum import Enum
+ 
+class Locker_Status(Enum):
+    IN_USE = 1
+    OPEN = 2
+    BREACHED = 3

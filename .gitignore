@@ -1,0 +1,9 @@
+/.vscode
+/__pycache__
+/controller.py
+/fb_key
+/locker.py
+/locker_status
+/master_node.py
+/pico_sender_test.py
+/server_sdk.py
